@@ -1,0 +1,12 @@
+
+
+/* Пример */
+
+@font-face {
+		font-family: "Muller", sans-serif;
+		font-style: normal;
+		font-weight: 700;
+		src: local(''),
+		url("../fonts/MullerBold.woff") format("woff"),
+		url("../fonts/MullerBold.woff2") format('woff2');
+}
